@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "53854449619",
+    "firebase_url": "https://moverriderapp-default-rtdb.firebaseio.com",
+    "project_id": "moverriderapp",
+    "storage_bucket": "moverriderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53854449619:android:6080d75c92bcca56ff8926",
+        "android_client_info": {
+          "package_name": "com.ahmar.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53854449619-q47d1ngcpdoee2njamvketd8d4smo3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOugBXBvzUqRQCXbRs4WwiUWqcVJY4fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53854449619-q47d1ngcpdoee2njamvketd8d4smo3jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53854449619:android:62ec458144789736ff8926",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53854449619-q47d1ngcpdoee2njamvketd8d4smo3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOugBXBvzUqRQCXbRs4WwiUWqcVJY4fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53854449619-q47d1ngcpdoee2njamvketd8d4smo3jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
